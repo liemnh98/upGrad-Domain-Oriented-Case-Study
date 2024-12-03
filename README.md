@@ -8,10 +8,6 @@
 
 Nguyen Huu Liem - liemhuunguyen98@gmail.com
 
-Krushna Chandra Sarangi - kr.sarangi@gmail.com
-
-Debendra Kumar Nayak - kumardebd@gmail.com
-
 ## Problem Statement
 *Schuster is a multinational retail company dealing in sports goods and accessories.*
 
